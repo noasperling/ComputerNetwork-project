@@ -22,3 +22,7 @@ A concurrent Client-Server chat application developed in **Python** as part of a
 1. **Start the Server:** Run `python server.py` in your terminal.
 2. **Connect Clients:** Open multiple terminal windows (up to 5+ concurrent users) and run `python client.py`.
 3. Enter a unique username when prompted and start chatting.
+
+## Screenshots
+<img width="2058" height="1400" alt="Screenshot 2026-11-16 151644" src="https://github.com/user-attachments/assets/17d7d787-5cfa-49d2-8c93-710ebb2b2afb" />
+
